@@ -7,125 +7,52 @@
     box-sizing: border-box;
 
   }
-
-
-
-
-  .container {
-
+.container {
     display: flex;
-
     justify-content: center;
-
     align-items: center;
-
-  }
-
-
-
-
-  .container .head .h h1 {
-
+}
+.container .head .h h1 {
     display: inline-flex;
-
     margin: 10px;
-
-  }
-
-
-
-
-  .ramadan, .march, .saxara, .iftar {
-
+}
+.ramadan, .march, .saxara, .iftar {
     font-size: 10px;
-
     color: #4b3900;
-
     padding: 5px;
-
-  }
-
-
-
-
-  .week {
-
+}
+.week {
     font-size: 30px;
-
     color: #4b3900;
-
     padding: 10px;
-
-  }
-
-
-
-
-  .table {
-
+}
+.table {
     margin: 30px;
-
     margin-left: 450px;
-
     width: 400px;
-
     height: 635px;
-
-    background-color: #f0eca5;
-
-  }
-
-
-
-
-  table {
-
+    background-color: #08a0ff;
+}
+table {
     border: 1px solid #ffc400;
-
-  }
-
-
-
-
-  table tr th, table tr td {
-
+}
+table tr th, table tr td {
     border: 1px solid #ffc400;
-
     padding: 5px;
-
-    color: #4b3900;
-
+    color: #ffffff;
     text-align: center;
-
-  }
-
-
-
-
-  table .friday td  {
-
-      background-color: #4b3900;
-
-      border: 1px solid #4b3900;
-
-      color: #fff;
-
-      text-align: center;
-
-  }
-
-
-
-
-  table tr td {
-
+}
+table .friday td  {
+    background-color: #87ebeb;
+    border: 1px solid #4b3900;
+    color: #fff;
+    text-align: center;
+}
+table tr td {
     color: #4b3900;
-
     font-size: 20px;
-
     padding: 5px;
-
-  }
+}
 
 
 
@@ -144,7 +71,7 @@
 
     left: 850px;
 
-    background-color: #f0eca5;
+    background-color: #08a0ff;
 
   }
 
